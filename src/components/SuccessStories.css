@@ -1,0 +1,22 @@
+.success-stories {
+    padding: 50px 20px;
+    background-color: #fff;
+}
+
+.stories {
+    display: flex;
+    justify-content: space-around;
+}
+
+.story {
+    max-width: 20%;
+}
+
+.story h3 {
+    font-size: 24px;
+}
+
+.story p {
+    font-size: 16px;
+    color: #666;
+}

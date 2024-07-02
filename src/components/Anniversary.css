@@ -1,0 +1,13 @@
+.anniversary {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+}
+
+.anniversary h1 {
+    font-size: 48px;
+}
+
+.anniversary p {
+    font-size: 18px;
+    color: #666;
+}
